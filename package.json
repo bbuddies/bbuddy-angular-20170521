@@ -32,7 +32,7 @@
     "angular-ui-router": "^1.0.0-beta.2",
     "bootstrap": "^3.3.7",
     "json-loader": "^0.5.4",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "ng-token-auth": "^0.0.29"
   },
   "devDependencies": {
